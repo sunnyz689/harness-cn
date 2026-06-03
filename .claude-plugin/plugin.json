@@ -1,6 +1,6 @@
 {
   "name": "harness",
-  "description": "The team-architecture factory for Claude Code — a meta-skill that turns a domain description into an agent team and the skills they use, with six pre-defined team-architecture patterns (Pipeline, Fan-out/Fan-in, Expert Pool, Producer-Reviewer, Supervisor, Hierarchical Delegation). Claude Code용 팀 아키텍처 팩토리: 도메인 한 문장을 에이전트 팀과 스킬 세트로 변환하는 메타 스킬.",
+  "description": "面向 Claude Code 的团队架构工厂——一个元技能（meta-skill），把一句领域描述转化为完整的智能体团队与他们要用的技能集合，内置六种团队架构模式：流水线 Pipeline、扇出/扇入 Fan-out/Fan-in、专家池 Expert Pool、生产者-审阅者 Producer-Reviewer、监督者 Supervisor、层级委派 Hierarchical Delegation。",
   "version": "1.2.0",
   "author": {
     "name": "robin",
